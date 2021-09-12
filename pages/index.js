@@ -1,6 +1,6 @@
 function Home() {
     return <div>
-        Home testando
+        Home testando novo teste
     </div>
 }
 
