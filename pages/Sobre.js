@@ -1,21 +1,22 @@
 import Menu from '../Components/Menu';
 import Footer from '../Components/Footer';
+import Sobre from '../Components/SobreContent';
 
 function Sobre() {
     return (
         <div>
 
-        <div>
+        <header>
             
            <Menu />
 
-        </div>
+        </header>
 
-        <div>
+        <main>
 
             <Sobre />
 
-        </div>
+        </main>
 
         <footer>
             
