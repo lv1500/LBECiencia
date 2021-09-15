@@ -1,10 +1,28 @@
-function Home() {
-    return <div>
-        Home testando novo teste
+import Menu from '../Components/Menu';
+import Home from '../Components/Home';
+import Footer from '../Components/Footer';
 
-        Página em desenvolvimento
+function HomePage() {
+    return (
+        <div>
+        
+            <header>
+                <Menu />
 
-    </div>
+            </header>
+
+            <main>
+                <Home />
+            
+            </main>
+
+            <footer>
+                <Footer />
+
+            </footer>
+        
+        </div>
+    );
 }
 
-export default Home
+export default HomePage

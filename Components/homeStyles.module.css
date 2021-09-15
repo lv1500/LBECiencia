@@ -1,0 +1,50 @@
+div.container {
+    background-color: #E7E6E6;
+    height: flex;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+}
+
+div.banner {
+    background-position: center;
+    background-color: #23232e;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 400px;
+    text-align: center;
+    
+}
+
+h2.h2Banner {
+    color: #E7E6E6;
+    font-size: 50px;
+}
+
+section.destaques {
+    min-width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div.articleBox {
+    display: flex;
+
+}
+
+div.art{
+    background-color: #23232e;
+    color: #E7E6E6;
+    width: 24%;
+    height: 24%;
+    margin: 1%;
+    text-align: center;
+    padding: 1%;
+}
+
+a.a {
+    text-decoration: none;
+    line-break: auto;
+    color: #E7E6E6;
+}
+

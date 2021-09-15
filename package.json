@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev" : "next dev"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lv1500/LBECiencia#readme",
   "dependencies": {
     "next": "^11.1.2",
+    "prismic-javascript": "^3.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
