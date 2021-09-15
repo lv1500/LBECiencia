@@ -1,6 +1,7 @@
 import Menu from '../Components/Menu';
 import Footer from '../Components/Footer';
-import Sobre from '../Components/SobreContent';
+import SobreContent from '../Components/SobreContent';
+
 
 function Sobre() {
     return (
@@ -14,7 +15,7 @@ function Sobre() {
 
         <main>
 
-            <Sobre />
+            <SobreContent />
 
         </main>
 

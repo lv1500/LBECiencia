@@ -1,11 +1,11 @@
 import styles from './sobreStyles.module.css'
 
-const Sobre = () => {
+const SobreContent = () => {
 
     return (
         <section className={styles.container}>
 
-            <span>Oláaaaa</span>
+            <span>EM DESENVOLVIMENTO</span>
 
 
 
@@ -13,4 +13,4 @@ const Sobre = () => {
     );
 }
 
-export default Sobre;
+export default SobreContent;
