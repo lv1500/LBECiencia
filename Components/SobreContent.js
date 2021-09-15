@@ -6,6 +6,7 @@ const SobreContent = () => {
         <section className={styles.container}>
 
             <span>EM DESENVOLVIMENTO</span>
+            <span>EM DESENVOLVIMENTO</span>
 
 
 
