@@ -1,0 +1,17 @@
+div.aboutUs {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+}
+
+div.quantidade {
+    background-color: #23232e;
+    color: #E7E6E6;
+    min-width: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+}
